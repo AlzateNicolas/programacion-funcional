@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7f56273-10d2-4851-b147-b072a5ff5dd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seg 1 corte 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BiConsumer/EjemploBiConsumerCombinar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BiConsumer/EjemploBiConsumerDistancia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bifunction/EjemploBiFunctionCombinarMayusculas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bifunction/EjemploBiFunctionPromedioSumar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Consumer/EjemploConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Consumer/EjemploConsumerFiltrarConvertir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Function/EjemploFunctionElevar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Function/EjemploFunctionPrimerCaracter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Supplier/EjemploSupplierCrearString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Supplier/EjemploSupplierGenerarAleatorio.java" afterDir="false" />
+    <list default="true" id="d7f56273-10d2-4851-b147-b072a5ff5dd6" name="Changes" comment="si">
+      <change afterPath="$PROJECT_DIR$/src/BiConsumer/EjemploAceptarEntradaUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AlzateNicolas"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AlzateNicolas/programacion-funcional",
+    "accountId": "e252b018-4858-499b-b160-6b523fa8189a"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -62,20 +60,7 @@
       <recent name="Bifunction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EjemploBiFunctionAreaRectangulo">
-    <configuration name="EjemploBiFunctionAreaRectangulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bifunction.EjemploBiFunctionAreaRectangulo" />
-      <module name="Seg 1 corte 3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Bifunction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EjemploConsumer">
     <configuration name="EjemploConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Consumer.EjemploConsumer" />
       <module name="Seg 1 corte 3" />
@@ -104,7 +89,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EjemploBiFunctionAreaRectangulo" />
         <item itemvalue="Application.EjemploConsumerFiltrarConvertir" />
         <item itemvalue="Application.EjemploConsumer" />
       </list>
@@ -119,6 +103,19 @@
       <option name="presentableId" value="Default" />
       <updated>1716061491594</updated>
     </task>
+    <task id="LOCAL-00001" summary="si">
+      <option name="closed" value="true" />
+      <created>1716323730144</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716323730144</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="si" />
+    <option name="LAST_COMMIT_MESSAGE" value="si" />
   </component>
 </project>
